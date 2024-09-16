@@ -1,4 +1,4 @@
-# Cats vs Dogs Classification with Transfer Learning and Fine-Tuning-MobileNetV2
+# Cats vs Dogs Classification with Transfer Learning and Fine Tuning-MobileNetV2
 
 This repository demonstrates how to use **transfer learning** to classify images of cats and dogs by leveraging a pre-trained **MobileNetV2** model. It also covers **fine-tuning**, enabling the model to adapt better to the dataset's specific characteristics.
 
